@@ -1,0 +1,8 @@
+title: Molushihuang.GitHub.io
+description: 陌路的技术博客
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
